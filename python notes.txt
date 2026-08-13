@@ -1,0 +1,26 @@
+implicit(with decimal)
+exlpicit
+contentination(...+...)
+variables
+data types
+immutable
+index(position)
+-1 (doesnot exist)
+in keyword(check presence)
+operators(//) remove decimal numbers
+modulo(calculate reminder value)%
+raise to the power**
+assignment operators+=
+operator precedence (priority matter)
+PARNAthesis()
+indentation (proper spacing)
+while loops(use for repitition)
+for loop(collection of values) iteration
+skip(continue)
+non primitive datatypes(list,tuple,set,dictionary)
+lenght-> len() total 
+append(add in the end of the list)
+tuple(immutable)
+dictionary(key value pair)
+function call(use)
+def function under paranthasis(parameters)
